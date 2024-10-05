@@ -1,0 +1,17 @@
+{
+  "name": "alab318.2.1-building_express_app",
+  "version": "1.0.0",
+  "description": "Building an Express application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Zakari Lobe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "pug": "^3.0.3"
+  }
+}
